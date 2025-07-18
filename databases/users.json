@@ -1,0 +1,16 @@
+[
+  {
+    "firstname": "Alice",
+    "username": "alice_dev",
+    "password": "hashedpassword1",
+    "token": "token123abc",
+    "tweetsliked": ["66a3f92e4f1b2b001f3a9c11", "66a3f92e4f1b2b001f3a9c12"]
+  },
+  {
+    "firstname": "Bob",
+    "username": "bob_coder",
+    "password": "hashedpassword2",
+    "token": "token456def",
+    "tweetsliked": ["66a3f92e4f1b2b001f3a9c13"]
+  }
+]
